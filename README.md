@@ -26,19 +26,19 @@ Windows:
 
 3. Make sure the directory you want to use is empty
 
-![](empty.png)
+![](empty.PNG)
 
 4. Click the start install button and wait around 10 seconds
 
-![](install.png)
+![](install.PNG)
 
 5. Enter your license from keymaster.fivem.net and your done.
 
-![](license.png)
+![](license.PNG)
 
 6. Start the server
 
-![](starter2.png)
+![](starter2.PNG)
 
 ## Release History
 
