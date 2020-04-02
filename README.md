@@ -1,4 +1,4 @@
-# FiveM Server Creator
+# FiveM Server Creator (FXS)
 > The program which is made in Java automatically sets up your FiveM server.
 
 Images:
@@ -45,7 +45,7 @@ Windows:
 * 1.0.0
     * Original code
 
-* 1.0.0
+* 1.0.1
     * Added a close operation
 
 ## Meta
