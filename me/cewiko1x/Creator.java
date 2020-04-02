@@ -44,11 +44,10 @@ public class Creator implements ActionListener {
         cfxURL = new URL("https://github.com/citizenfx/cfx-server-data/archive/master.zip");
 
         JFrame frame = new JFrame("FiveM Server");
-        JFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JButton installButton = new JButton("Start Install");
         JButton directoryButton = new JButton("Select FiveM Server Directory");
         JButton githubButton = new JButton("Github");
-        JButton clearCacheButton = new JButton("Clear Cache");
         JLabel title = new JLabel("FXServer Creator");
         title.setFont(new Font("Verdana", Font.PLAIN, 18));
         title.setVisible(true);
@@ -57,19 +56,6 @@ public class Creator implements ActionListener {
         installButton.setFont(new Font("Verdana", Font.PLAIN, 14));
         githubButton.setVisible(true);
         githubButton.setBounds(10, 160, 200, 30);
-        clearCacheButton.setVisible(true);
-        clearCacheButton.setBounds(10,200, 200,30);
-
-        clearCacheButton.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-if(cacheFile.exists()) {
-    cacheFile.delete();
-} else {
-    
-}
-            }
-        });
 
         installButton.addActionListener(this);
 
@@ -118,7 +104,6 @@ if(cacheFile.exists()) {
         frame.add(githubButton);
         frame.add(directoryButton);
         frame.add(title);
-        frame.add(clearCacheButton);
         frame.setSize(400,400);
         frame.setLayout(null);
         frame.setVisible(true);
