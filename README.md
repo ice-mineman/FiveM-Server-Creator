@@ -36,6 +36,10 @@ Windows:
 
 ![](license.png)
 
+6. Start the server
+
+![](starter2.png)
+
 ## Release History
 
 * 1.0.0
