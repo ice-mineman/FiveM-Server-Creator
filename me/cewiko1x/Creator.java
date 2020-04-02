@@ -44,6 +44,7 @@ public class Creator implements ActionListener {
         cfxURL = new URL("https://github.com/citizenfx/cfx-server-data/archive/master.zip");
 
         JFrame frame = new JFrame("FiveM Server");
+        JFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JButton installButton = new JButton("Start Install");
         JButton directoryButton = new JButton("Select FiveM Server Directory");
         JButton githubButton = new JButton("Github");
