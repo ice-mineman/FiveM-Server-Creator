@@ -45,6 +45,9 @@ Windows:
 * 1.0.0
     * Original code
 
+* 1.0.0
+    * Added a close operation
+
 ## Meta
 
 
