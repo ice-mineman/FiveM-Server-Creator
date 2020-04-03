@@ -53,7 +53,7 @@ Windows:
 
 Cewiko1x – cewiko1x#3856
 
-[https://github.com/yourname/cewiko1x](https://github.com/cewiko1x/)
+[https://github.com/cewiko1x](https://github.com/cewiko1x/)
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
