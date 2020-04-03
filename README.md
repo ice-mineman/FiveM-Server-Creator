@@ -47,6 +47,9 @@ Windows:
 
 * 1.0.1
     * Added a close operation
+    
+* 1.0.2
+    * Adjusted file structure
 
 ## Meta
 
