@@ -1,4 +1,4 @@
-package me.cewiko1x;
+package io.github.cewiko1x;
 
 import java.io.*;
 import java.util.zip.ZipEntry;

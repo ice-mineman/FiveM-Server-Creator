@@ -1,26 +1,16 @@
-package me.cewiko1x;
+package io.github.cewiko1x;
 
 
-import com.sun.scenario.effect.impl.sw.java.JSWBlend_COLOR_BURNPeer;
 import org.apache.commons.io.FileUtils;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.KeyEvent;
 import java.io.*;
-import java.net.MalformedURLException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
-import java.nio.channels.Channels;
-import java.nio.channels.ReadableByteChannel;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipInputStream;
 
 public class Creator implements ActionListener {
 

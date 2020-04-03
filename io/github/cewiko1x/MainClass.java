@@ -1,6 +1,4 @@
-package me.cewiko1x;
-
-import me.cewiko1x.Creator;
+package io.github.cewiko1x;
 
 import javax.swing.*;
 import java.awt.*;
