@@ -18,27 +18,39 @@ Windows:
 
 1. Open it
 
-![](header.png)
+![](images/header.png)
 
-2. Select where you want the Server directory to be (folder)
+2. Click the "Artifacts Download" Button
 
-![](filebrowser.png)
+![](images/dl-artifacts.png)
 
-3. Make sure the directory you want to use is empty
+3. Click Latest Recommended
 
-![](empty.PNG)
+![](images/dl-artifacts-web.png)
 
-4. Click the start install button and wait around 10 seconds
+4. Locate the server.zip you downloaded and select it
 
-![](install.PNG)
+![](images/select-artifacts.png)
 
-5. Enter your license from keymaster.fivem.net and your done.
+5. Select your FiveM Server Directory (NO SPACES)
 
-![](license.PNG)
+![](images/select-fivemdirectory.png)
 
-6. Start the server
+![](images/empty-folder.png)
 
-![](starter2.PNG)
+6. Click "Start Install"
+
+![](images/start-install.png)
+
+7. Enter your license key from keymaster.fivem.net
+
+![](images/input-license.png)
+
+8. Start the server with starter.bat
+
+![](images/starter.png)
+
+![](console.png)
 
 ## Release History
 
@@ -50,6 +62,10 @@ Windows:
     
 * 1.0.2
     * Adjusted file structure
+    
+* 1.0.3
+    * Fixed download issues
+
 
 ## Meta
 
