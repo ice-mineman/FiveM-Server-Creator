@@ -3,7 +3,8 @@
 
 ![](images/header.png)
 
-## (https://www.youtube.com/watch?v=CZtDyq7VCTg "Youtube Tutorial")
+## [Youtube Tutorial](https://www.youtube.com/watch?v=CZtDyq7VCTg)
+
 
 ## Installation
 
